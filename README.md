@@ -1,5 +1,5 @@
 # ENSAE-Digital-Vote
-Ce projet est une application web destinée à organiser et gérer les élections des représentants de l’ENSAE. Elle permet aux étudiants de voter en ligne, aux administrateurs de gérer les élections et d’accéder aux résultats en temps réel.
+Ce projet est une application web destinée à organiser et gérer les élections des représentants de l’ENSAE. Elle permet aux étudiants de voter en ligne, aux administrateurs de gérer les élections et d’accéder aux résultats en temps réel. L'application est conçue avec HTML, CSS et JavaScript.
 ## 👨‍💻 Connexion administrateur
 Email : admin@ensae.fr
 Mot de passe : admin123
