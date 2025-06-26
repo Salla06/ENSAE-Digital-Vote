@@ -8,9 +8,9 @@ Les colonnes doivent être du format: email | password | prenom | nom | classe. 
 ## 🔄 Persistance des données
 Les données (élections, électeurs, votes) sont enregistrées dans le navigateur (via localStorage) sous la clé sharedElectionsData, ce qui permet aux administrateurs de voir la même base s’ils utilisent le même navigateur.
 ## ✅ Fonctionnalités principales
-Authentification des électeurs
-Vote sécurisé (1 vote par élection)
-Résultats en temps réel
-Tableau de bord administrateur
-Import/export des données
-Interface responsive (smartphone + ordinateur)
+Authentification des électeurs,
+ote sécurisé (1 vote par élection),
+résultats en temps réel,
+tableau de bord administrateur,
+import/export des données,
+interface responsive (smartphone + ordinateur)
